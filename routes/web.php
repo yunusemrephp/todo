@@ -6,6 +6,7 @@ use App\Http\Controllers\Manager\ManagerController;
 use App\Http\Controllers\Manager\UserController;
 use App\Http\Controllers\Manager\RoleController;
 use App\Http\Controllers\HomeController;
+USE Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\Interia\Manager\UserController as InteriaUserController;
 
 /*
